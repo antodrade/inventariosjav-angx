@@ -2,6 +2,7 @@ import { Component } from '@angular/core';
 import { Producto } from '../producto';
 import { ProductoService } from '../producto.service';
 
+
 @Component({
   selector: 'app-producto-lista',
   standalone: true,
